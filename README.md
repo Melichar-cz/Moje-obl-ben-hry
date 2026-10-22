@@ -1,6 +1,6 @@
 Moje oblíbené hry
 
-Vítej na mém projektu! Toto je přehled her, které mě baví ve volném čase.
+Toto je přehled her, které mě baví ve volném čase.
 
 Moje oblíbené hry
 Minecraft – stavění, tvoření a přežívání.
@@ -14,7 +14,7 @@ Obrázky
 
 !Fortnite
 
-Užitečné odkazy
+Odkazy
 Oficiální stránka Minecraftu
 Oficiální stránka Fortnite
 Závěr
