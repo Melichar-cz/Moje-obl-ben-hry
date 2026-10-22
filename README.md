@@ -14,9 +14,6 @@ Obrázky
 
 !Fortnite
 
-Odkazy
-Oficiální stránka Minecraftu
-Oficiální stránka Fortnite
 Závěr
 
 Hraní her je pro mě způsob, jak si odpočinout a užít volný čas. Každá z těchto her nabízí něco jiného.
