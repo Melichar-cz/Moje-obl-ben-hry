@@ -8,11 +8,11 @@ GTA V – otevřený svět a různé mise.
 Fortnite – online hra s ostatními hráči.
 Obrázky
 
-!Minecraft
+*Minecraft
 
-!GTA V
+*GTA V
 
-!Fortnite
+*Fortnite
 
 Závěr
 
